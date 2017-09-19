@@ -1,4 +1,4 @@
----
-theme: jekyll-theme-cayman
+------
+layout: default
 ---
 
