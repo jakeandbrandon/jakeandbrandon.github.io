@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Brandon and Jake's General Lawn Service and Snow Removal
 
+include: ["_pages"]
