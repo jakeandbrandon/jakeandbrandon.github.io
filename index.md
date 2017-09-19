@@ -2,7 +2,7 @@
 <hr>
 <p> We are two boys who are looking to make a dew extra bucks. We mow lawns, trim bushes, and shovel snow. We can also walk dogs. We have experience with lawn service.</p>
 <hr>
-[You can learn more about us here!](http://brandonandjake.tk/about.md)
+[You can learn more about us here!](http://jakeandbrandon.tk/about.md)
 <hr>
 <p> Website made by Robert Pratl </p>
 <hr>
