@@ -1,6 +1,10 @@
 <p> Please contact us at brandonscoots24@gmail.com or (708)265-1166 and we will get back to you as quick as possible! </p>
-{% include button.html url="http://jakeandbrandon.tk/about.md" %}
+<p> We are two boys who are looking to make a dew extra bucks. We mow lawns, trim bushes, and shovel snow. We can also walk dogs. We have experience with lawn service. </p>
 
 <br>
 <hr>
 Website made by Robert Pratl
+<br>
+<hr>
+CHICAGO RIDGE ONLY!
+<hr>
