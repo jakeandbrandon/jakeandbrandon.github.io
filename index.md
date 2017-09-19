@@ -5,7 +5,6 @@
 [You can learn more about us here!](http://brandonandjake.tk/about.md)
 <hr>
 <p> Website made by Robert Pratl </p>
-<br>
 <hr>
 <p> CHICAGO RIDGE ONLY! </p>
 <hr>
